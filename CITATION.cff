@@ -12,7 +12,7 @@ authors:
     email: craig@hackerverse.ai
 version: 0.1.0
 date-released: "2026-10-01"
-license: CC-BY-ND-4.0
+license: CC-BY-4.0
 repository-code: "https://github.com/proofprotocol/PP-SPEC-034-owasp-aivss-mapping"
 url: "https://proofprotocol.io"
 # doi: "10.5281/zenodo.XXXXXXXX"   # add after Zenodo release
