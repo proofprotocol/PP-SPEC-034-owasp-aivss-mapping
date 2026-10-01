@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this specification, please cite it as below."
+title: "PP-SPEC-034: Proof of Efficacy Mapping to OWASP AIVSS"
+abstract: >-
+  Maps OWASP AIVSS concepts to Proof Protocol proof-of-efficacy testing,
+  evidence, and interoperability objects.
+type: software
+authors:
+  - family-names: Ellrod
+    given-names: Craig
+    affiliation: "Nebulonium, Inc. (dba HACKERverse)"
+    email: craig@hackerverse.ai
+version: 0.1.0
+date-released: "2026-10-01"
+license: CC-BY-ND-4.0
+repository-code: "https://github.com/proofprotocol/owasp-aivss-mapping"
+url: "https://proofprotocol.io"
+# doi: "10.5281/zenodo.XXXXXXXX"   # add after Zenodo release
+keywords:
+  - proof of efficacy
+  - Proof Protocol
+  - OWASP AIVSS
+  - independent verification
+  - AI assurance
+  - adversarial testing
