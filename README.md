@@ -3,7 +3,7 @@
 **Status:** DRAFT v0.1  
 **Author:** Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®)  
 **License:** CC BY-ND 4.0  
-**Normative specification:** [`Provisional-PP-SPEC-034-OWASP-AIVSS-Mapping.md`](./Provisional-PP-SPEC-034-OWASP-AIVSS-Mapping.md)
+**Normative specification:** [`PP-SPEC-034-OWASP-AIVSS-Mapping.md`](./PP-SPEC-034-OWASP-AIVSS-Mapping.md)
 
 This repository contains the Proof Protocol mapping from **OWASP AIVSS** to Proof of Efficacy evidence.
 
@@ -19,7 +19,7 @@ See the normative specification's **Source Framework, Attribution, and License**
 
 ## Files
 
-- `Provisional-PP-SPEC-034-OWASP-AIVSS-Mapping.md` — normative mapping specification
+- `PP-SPEC-034-OWASP-AIVSS-Mapping.md` — normative mapping specification
 - `LICENSE` — CC BY-ND 4.0 license notice
 - `CONTRIBUTING.md` — contribution policy
 - `CITATION.cff` — canonical citation metadata
