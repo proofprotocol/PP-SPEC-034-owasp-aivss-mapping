@@ -5,7 +5,7 @@
 | Status | DRAFT v0.1 |
 | Author | Craig Ellrod, Nebulonium, Inc. (dba HACKERverse®) |
 | Date | October 1, 2026 |
-| License | CC BY-ND 4.0 |
+| License | CC BY 4.0 |
 | Maps to | OWASP AI Vulnerability Scoring System (AIVSS), including the current Agentic AI scoring methodology |
 | Series | Proof Protocol Framework Mapping Specifications |
 
@@ -117,9 +117,9 @@ No affiliation, endorsement, certification, or sponsorship by the maintainers of
 - **Upstream license status:** CC BY-SA 4.0 is stated for the published AIVSS scoring document; the repository contains a LICENSE.md.
 - **Proof Protocol reuse determination:** **YES, WITH CONDITIONS**
 
-**Use in this mapping.** CC BY-SA permits sharing and adaptation, including commercial use, with attribution and ShareAlike for adapted material. Because Proof Protocol uses CC BY-ND 4.0, this mapping should reference identifiers and independently describe the crosswalk rather than incorporate adapted AIVSS text that would need to be distributed under CC BY-SA.
+**Use in this mapping.** CC BY-SA permits sharing and adaptation, including commercial use, with attribution and ShareAlike for adapted material. Because Proof Protocol uses CC BY 4.0, this mapping should reference identifiers and independently describe the crosswalk rather than incorporate adapted AIVSS text that would need to be distributed under CC BY-SA.
 
-This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains licensed under **CC BY-ND 4.0** as stated above. Framework names and trademarks remain the property of their respective owners. This section is a practical licensing assessment, not legal advice.
+This license determination applies to the referenced upstream material, not to this Proof Protocol mapping specification. This mapping remains licensed under **CC BY 4.0** as stated above. Framework names and trademarks remain the property of their respective owners. This section is a practical licensing assessment, not legal advice.
 
 ## 10. References
 
@@ -133,4 +133,4 @@ Each release SHOULD be anchored with a dated identifier and, where available, a 
 
 ---
 
-*Proof Protocol · proofprotocol.io · CC BY-ND 4.0*
+*Proof Protocol · proofprotocol.io · CC BY 4.0*
